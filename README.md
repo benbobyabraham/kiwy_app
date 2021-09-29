@@ -1,3 +1,3 @@
 # Kiwy Application dev
 
-[Reference](https://realpython.com/mobile-app-kivy-python/)
+[Go to reference page](https://realpython.com/mobile-app-kivy-python/)
